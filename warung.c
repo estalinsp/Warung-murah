@@ -39,7 +39,6 @@ int total = 0;
          
         printf("\n===============[ DESCRIPTION ]===============\n");
         printf("\n\n");
-        printf("This program was created because the author was experiencing mental instability, I hope you can appreciate this project!\n");
         printf("I hope I will get a better life after this...\n");
         printf("I really want to be a better kid in my neighborhood, but I always fail when I do anything...\n");
         printf("I really want to have real friends and really want to be appreciated by my friends and my environment...\n");
