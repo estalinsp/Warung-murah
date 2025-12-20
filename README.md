@@ -32,7 +32,7 @@ English language support is not available yet, but it is planned for a future up
 # Installation
 Clone the repository and build the program: 
 ```bash
-git clone <https://github.com/Ildhaaannnnnnn/Warung-murah>
+git clone https://github.com/Ildhaaannnnnnn/Warung-murah
 cd Warung
 gcc -Wall warung.c -o warung
 ./warung
