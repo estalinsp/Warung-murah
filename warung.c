@@ -59,12 +59,19 @@ int total = 0;
         printf("\n");
         printf("          Created by Ildhan Savelio navarro\n");
         printf("======================================================\n");
+
         printf("\n");
 
         system("curl -s https://raw.githubusercontent.com/Ildhaaannnnnnn/Warung-murah/main/latest_version.txt");
         
         printf("\n");
         printf("\n ⚠️ Compare with your version manually.\n");
+
+          
+        system("curl -s https://raw.githubusercontent.com/Ildhaaannnnnnn/Warung-murah/main/latest_version.txt");
+        
+        printf("\n⚠️ Compare with your version manually.\n");
+
 
         do  {
             printf("\n=========[ Menu Warung ]=========\n");
