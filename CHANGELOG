@@ -1,0 +1,8 @@
+# Changelog
+
+## [1.0.0] - 2025-12-21
+- Indonesian language only
+- Updated opening banner and program description
+- CLI menu for food and drinks
+- Total payment calculation with bonus/discount
+- Package system (A, B, C, D)

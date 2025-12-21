@@ -1,4 +1,4 @@
-# Warung
+# Warung Murah v1.0.0
 
 A simple command-line warung (small shop) simulation written in C.
 
@@ -13,6 +13,10 @@ This project was created mainly as a learning exercise to practice basic C progr
 - Item list with prices
 - Purchase simulation
 - Automatic total price calculation
+- Food menu
+- Drink menu
+- Simple purchases
+- Cheap food packages
 
 # Language Notice
 The program output and user interaction are currently written entirely in Indonesian.
@@ -48,13 +52,15 @@ Follow the on screen instructions to select and complate a purchase
 # Example
 ![Warung example](photo.png)
 
-# Purpose
+This example.
+
+# Purpose 
 This project is intended fo:
 - Beginners learning the C programming language
 - Practicing basic logic, loops, and conditionals
 - Understanding how simple CLI programs work
 
-# Notes
+# 📝 Notes 
 - This is an educational project, not a production ready system.
 - The code is intentionally kept simple for learning purposes.
 - Future improvements may include: 
@@ -62,3 +68,11 @@ This project is intended fo:
    + Better code structure using struct
    + File based data storage
    + Addtional features (stock, discounts, etc.)
+
+## Changelog   
+### v1.0.0
+- Indonesian language only
+- Updated opening banner and program description
+- CLI menu for food and drinks
+- Total payment calculation with bonus/discount
+- Package system (A, B, C, D)

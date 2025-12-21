@@ -1,4 +1,5 @@
  #include <stdio.h>
+ #include <stdlib.h>
 
  // Variabel Void
  void menu_makanan(); 
@@ -12,6 +13,12 @@
  // Ascii banner
 #define GREEN "\033[1;32m"
 #define RESET "\033[0m"
+
+// Version
+#define VERSION "1.0.0"
+
+// color
+#define RED "\033[1;31m"
 
 // Variabel Global 
 int total = 0;
@@ -38,12 +45,11 @@ int total = 0;
                 RESET);                                                  
          
         printf("\n===============[ DESCRIPTION ]===============\n");
-        printf("\n\n");
-        printf("I hope I will get a better life after this...\n");
-        printf("I really want to be a better kid in my neighborhood, but I always fail when I do anything...\n");
-        printf("I really want to have real friends and really want to be appreciated by my friends and my environment...\n");
+        printf("Hey, thanks for trying out the project, I hope you like the project I made!\n");
+        printf(RED "           Warung murah %s\n" RESET, VERSION);
         printf("================================================\n");
-        printf("\n");
+        
+
         // footer banner
         printf("\n===================================================\n");
         printf("Social media:\n");
@@ -53,7 +59,12 @@ int total = 0;
         printf("\n");
         printf("          Created by Ildhan Savelio navarro\n");
         printf("======================================================\n");
+        printf("\n");
 
+        system("curl -s https://raw.githubusercontent.com/Ildhaaannnnnnn/Warung-murah/main/latest_version.txt");
+        
+        printf("\n");
+        printf("\n ⚠️ Compare with your version manually.\n");
 
         do  {
             printf("\n=========[ Menu Warung ]=========\n");
