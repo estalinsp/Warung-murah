@@ -76,3 +76,11 @@ This project is intended fo:
 - CLI menu for food and drinks
 - Total payment calculation with bonus/discount
 - Package system (A, B, C, D)
+
+
+## 🐞 Bug Reports & Feature Requests
+
+If you find a bug or have an idea for a new feature (including language support),
+please open an issue on GitHub.
+
+Your feedback is highly appreciated.
