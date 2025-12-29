@@ -50,9 +50,8 @@ Run the program from the terminal:
 Follow the on screen instructions to select and complate a purchase
 
 # Example
-![Warung example](photo.png)
 
-This example.
+- Not available.
 
 # Purpose 
 This project is intended fo:
