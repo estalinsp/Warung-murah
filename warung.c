@@ -21,7 +21,7 @@
 #define RED "\033[1;31m"
 
 // Variabel Global 
-int total = 0;
+long long int total = 0;
 
 
  int main() {
@@ -65,12 +65,6 @@ int total = 0;
         system("curl -s https://raw.githubusercontent.com/Ildhaaannnnnnn/Warung-murah/main/latest_version.txt");
         
         printf("\n");
-        printf("\n ⚠️ Compare with your version manually.\n");
-
-          
-        system("curl -s https://raw.githubusercontent.com/Ildhaaannnnnnn/Warung-murah/main/latest_version.txt");
-        
-        printf("\n⚠️ Compare with your version manually.\n");
 
 
         do  {
@@ -84,9 +78,7 @@ int total = 0;
             printf("7.Total pembayaran\n");
             printf("8.Exit\n");
             printf("Pilih: ");
-            scanf("%d", &pilihan);
-
-
+            if (scanf("%d", &pilihan) != 1) break; 
 
             switch (pilihan)
             {
